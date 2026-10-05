@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "A.N. Other's academic homepage (edit in _quarto.yml)"
+  title: "Ikechukwu Ofodile"
   navbar:
     left:
       - href: index.qmd
@@ -14,9 +14,10 @@ website:
       - href: publications.qmd
         text: Publications
       - href: events.qmd
-        text: Events
+        text: Conferences
       - href: blog.qmd
         text: Blog
+
   sidebar:
     style: "docked"
     logo: "./images/user_image.png"
@@ -24,23 +25,21 @@ website:
     collapse-level: 2
     contents:
       - icon: github
-        text: Github
-        url: https://github.com/IntelligentSystemsLaboratory
-      - icon: twitter
-        text: Twitter
-        url: https://twitter.com/Bristol_AI_CDT
+        text: GitHub
+        url: https://github.com/ic-ofodile-bristol
+      - icon: linkedin
+        text: LinkedIn
+        url: YOUR-LINKEDIN-URL
       - icon: envelope
-        text: "Email"
-        url: mailto:ck22122@bristol.ac.uk
+        text: Email
+        url: mailto:ic.ofodile@bristol.ac.uk
       - text: "Google Scholar"
-        url: https://scholar.google.com/citations?user=<google-scholar-user>
-      - text: Pro-AI CDT
+        url: YOUR-GOOGLE-SCHOLAR-URL
+      - text: PrO-AI CDT
         url: https://www.bristol.ac.uk/cdt/practice-oriented-ai/
+
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
