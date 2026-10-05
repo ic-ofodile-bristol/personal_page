@@ -1,13 +1,54 @@
 ---
-title: "My research in Practice-Oriented Artificial Intelligence"
-author: "A.N. Other (edit at the top of index.qmd)"
+title: "Multimodal AI for Perception and Autonomous Systems"
+author: "Ikechukwu Ofodile"
 ---
 
-My name is {{< meta author >}} and I am a PhD student at the {{< var cdt-full >}}. 
-This is my professional website where I describe my main research area, ongoing projects, publications, and other AI-related activities. 
+I am a PhD researcher in the {{< var cdt-full >}} at the **University of Bristol**. My research focuses on **multimodal artificial intelligence, computer vision, spatiotemporal learning, and autonomous systems**, with particular interest in developing AI systems that can perceive and understand complex, dynamic environments from multiple sensing modalities.
 
-{{< var todo >}}
+My current research investigates **UAV–environment interactions**, combining onboard video and aircraft telemetry to understand how unmanned aerial vehicles interact with challenging atmospheric environments. Recent work focuses on **UAV–volcanic plume interaction**, where I develop spatiotemporal and multimodal learning approaches for recognising different stages of an aircraft's interaction with a volcanic plume.
+
+My broader research interests include **multimodal sensor fusion, video understanding, autonomous UAV perception, robotics, intelligent control, and dynamic environment modelling**.
+
+**Research interests:** Multimodal AI · Computer Vision · Video Understanding · Spatiotemporal Learning · Sensor Fusion · Autonomous Systems · UAV Perception · Robotics
 
 ---
 
-This website is authored in [Quarto](https://quarto.org/docs/websites).
+## Current Research
+
+### Multimodal UAV–Environment Interaction Perception
+
+My current work explores how multimodal AI can enable autonomous aerial systems to perceive and reason about their interactions with complex atmospheric environments. Using operational fixed-wing UAV flights through volcanic plumes, I investigate the fusion of **onboard video and aircraft telemetry** for recognising temporally structured interaction states:
+
+**Approaching → Entering → Inside → Exiting**
+
+The work combines video-native spatiotemporal modelling with aircraft-state representations and multimodal fusion. Recent experiments investigate **cross-attention and residual-gated cross-attention**, enabling complementary telemetry information to be incorporated while preserving strong visual representations.
+
+[**View research →**](research.qmd) &nbsp;&nbsp; [**View projects →**](projects.qmd)
+
+---
+
+## Research Background
+
+Before joining the University of Bristol, I completed an **MSc in Robotics and Computer Engineering** at the University of Tartu, graduating *Summa Cum Laude*. My research there included autonomous and robotic systems, computer vision, multisensor perception, and spacecraft attitude determination and control.
+
+I previously completed a **BEng in Electrical and Electronics Engineering**, providing the engineering foundation for my subsequent work across artificial intelligence, robotics, autonomous systems, and control.
+
+---
+
+## Selected Research Areas
+
+### Multimodal Perception & Sensor Fusion
+
+Developing AI models that integrate visual information with telemetry and other sensing modalities for robust perception in autonomous systems.
+
+### Computer Vision & Spatiotemporal Learning
+
+Learning representations from images and video to understand objects, environments, events, and temporally evolving interactions.
+
+### Autonomous Systems & Robotics
+
+Applying perception, machine learning, sensor fusion, and intelligent control to UAVs, mobile robots, and other autonomous platforms.
+
+---
+
+*This website presents my ongoing research, projects, publications, and related activities in artificial intelligence and autonomous systems.*
