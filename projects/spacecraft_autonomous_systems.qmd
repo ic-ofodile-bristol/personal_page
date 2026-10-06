@@ -1,0 +1,17 @@
+---
+title: "Spacecraft Attitude Control & Autonomous Space Systems"
+description: "Research in fault-tolerant spacecraft attitude control, ADCS, and autonomous small-spacecraft systems."
+date: "2024-01-01"
+categories:
+  - Space Systems
+  - Control
+  - Autonomous Systems
+---
+
+## Overview
+
+Research spanning spacecraft attitude determination and control, fault-tolerant control, and autonomous small-spacecraft systems.
+
+The work includes the development and investigation of fault-tolerant and adaptive attitude-control approaches, anti-windup control, and attitude-control modes for small spacecraft.
+
+Related research has included work on the ESTCube-2 attitude determination and control system and ESTCube-LuNa, including control and mission considerations associated with small-spacecraft and Electric Solar Wind Sail technologies.

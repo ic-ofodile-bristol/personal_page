@@ -1,0 +1,17 @@
+---
+title: "Sequential Recommendation & Slate Diversification"
+description: "Sequential recommendation and diversification for improving relevance and variety across recommendation sessions."
+date: "2025-12-01"
+categories:
+  - Recommender Systems
+  - Machine Learning
+  - Sequential Modelling
+---
+
+## Overview
+
+A Practice-Oriented AI project investigating sequential recommendation and slate diversification using the MovieLens dataset.
+
+The work compared modern recommendation approaches and investigated Maximum Marginal Relevance (MMR) for controlling the trade-off between recommendation relevance and diversity, both within individual recommendation slates and across successive sessions.
+
+The project explored matrix-factorisation and sequential recommendation approaches alongside Transformer-based and generative recommendation models, with evaluation focused on ranking quality and diversification.

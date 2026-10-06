@@ -1,6 +1,0 @@
----
-title: "Summer Research Project" 
----
-
-At the end of the Foundation Year I carry out a pilot project for the PhD proper. 
-Mine is about ...

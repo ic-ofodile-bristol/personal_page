@@ -13,28 +13,27 @@ website:
         text: Projects
       - href: publications.qmd
         text: Publications
-      - href: events.qmd
-        text: Conferences
-      - href: blog.qmd
-        text: Blog
+      
 
   sidebar:
     style: "docked"
-    logo: "./images/user_image.png"
+    logo: "./images/profile_pic.JPG"
     search: true
     collapse-level: 2
     contents:
       - icon: github
         text: GitHub
         url: https://github.com/ic-ofodile-bristol
-      - icon: linkedin
-        text: LinkedIn
-        url: YOUR-LINKEDIN-URL
-      - icon: envelope
-        text: Email
-        url: mailto:ic.ofodile@bristol.ac.uk
+      - text: "ic.ofodile@bristol.ac.uk"
+        icon: envelope
+        href: "mailto:ic.ofodile@bristol.ac.uk"
       - text: "Google Scholar"
-        url: YOUR-GOOGLE-SCHOLAR-URL
+        icon: mortarboard
+        href: "https://scholar.google.com/citations?user=NEaNvBgAAAAJ&hl=en&oi=ao"
+      - text: "ORCID - 0000-0002-1980-2850"
+        icon: person-badge
+        href: "https://orcid.org/0000-0002-1980-2850"
+        target: "_blank"
       - text: PrO-AI CDT
         url: https://www.bristol.ac.uk/cdt/practice-oriented-ai/
 

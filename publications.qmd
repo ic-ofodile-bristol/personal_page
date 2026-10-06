@@ -1,9 +1,108 @@
+
 ---
-title: "My Publications"
-listing:
-    contents: publications
-    sort: date desc
+title: "Publications"
+toc: false
+format:
+  html:
+    body-classes: publications-page
 ---
 
-I have (co-)authored the following workshop, conference and journal papers. 
-Click through to find out more and see a full citation. 
+My research spans multimodal AI, computer vision, autonomous systems, and spacecraft guidance and control. Selected peer-reviewed publications and current research outputs are listed below.
+
+For a complete and up-to-date publication record, see my [Google Scholar profile](https://scholar.google.com/citations?user=NEaNvBgAAAAJ&hl=en&oi=ao).
+
+## 2027
+
+### Towards Multimodal Spatiotemporal Learning of UAV–Environment Interactions for Autonomous UAV Perception
+
+**Ikechukwu Ofodile**, et al.  
+*IEEE Aerospace Conference, 2027 — Submitted.*
+
+[Related Project](projects/uav_environment_interaction.qmd)
+
+---
+
+## 2024
+
+### Electric Sail Test Cube–Lunar Nanospacecraft, ESTCube-LuNa: Solar Wind Propulsion Demonstration Mission Concept
+
+Andris Slavinskis, Mario F. Palos, Janis Dalbins, Pekka Janhunen, Martin Tajmar, Nickolay Ivchenko, Agnes Rohtsalu, Aldo Micciani, Nicola Orsini, Karl Mattias Moor, Sergei Kuzmin, Marcis Bleiders, Marcis Donerblics, **Ikechukwu Ofodile**, Johan Kütt, Tõnis Eenmäe, Viljo Allik, Jaan Viru, Pätris Halapuu, Katriin Kristmann, Janis Sate, Endija Briede, Marius Anger, Katarina Aas, Gustavs Plonis, Hans Teras, Kristo Allaje, Andris Vaivads, Lorenzo Niccolai, Marco Bassetto, Giovanni Mengali, Petri Toivanen, Iaroslav Iakubivskyi, Mihkel Pajusalu, and Antti Tamm.  
+*Aerospace*, 11(3), 230, 2024.
+
+[DOI](https://doi.org/10.3390/aerospace11030230) · [Related Project](projects/spacecraft_autonomous_systems.qmd)
+
+---
+
+## 2023
+
+### Nanosatellite Attitude Stabilization based on Decentralized Anti-windup Fault Tolerant Control
+
+**Ikechukwu Ofodile**, Akeem Adebomehin, Paul Jemitola, Andris Slavinskis, and Gholamreza Anbarjafari.  
+*2023 IEEE Aerospace Conference (AERO)*, 2023.
+
+[DOI](https://doi.org/10.1109/AERO55745.2023.10115995) · [Related Project](projects/spacecraft_autonomous_systems.qmd)
+
+### Ethical AI in Facial Expression Analysis: Racial Bias
+
+Abdallah Hussein Sham, Kadir Aktas, Davit Rizhinashvili, Danila Kuklianov, Fatih Alisinanoglu, **Ikechukwu Ofodile**, Cagri Ozcinar, and Gholamreza Anbarjafari.  
+*Signal, Image and Video Processing*, 17(2), 399–406, 2023.
+
+[DOI](https://doi.org/10.1007/s11760-022-02246-8)
+
+---
+
+## 2022
+
+### Towards an Integrated Fault Tolerant Control for ESTCube-2 Attitude Control System
+
+**Ikechukwu Ofodile**, Hans Teras, Andris Slavinskis, and Gholamreza Anbarjafari.  
+*2022 IEEE Aerospace Conference (AERO)*, pp. 2361–2371, 2022.
+
+[DOI](https://doi.org/10.1109/AERO53065.2022.9843532) · [Related Project](projects/spacecraft_autonomous_systems.qmd)
+
+---
+
+## 2021
+
+### Integrated Anti-Windup Fault-Tolerant Control Architecture for Optimized Satellite Attitude Stabilization
+
+**Ikechukwu Ofodile**, Nkemdilim Ofodile-Keku, Paul Jemitola, Gholamreza Anbarjafari, and Andris Slavinskis.  
+*IEEE Journal on Miniaturization for Air and Space Systems*, 2(4), 189–198, 2021.
+
+[DOI](https://doi.org/10.1109/JMASS.2021.3092364) · [Related Project](projects/spacecraft_autonomous_systems.qmd)
+
+### Automatic Recognition of Facial Displays of Unfelt Emotions
+
+Kaustubh Kulkarni, Ciprian Adrian Corneanu, **Ikechukwu Ofodile**, Sergio Escalera, Xavier Baró, Sylwia Hyniewska, Jüri Allik, and Gholamreza Anbarjafari.  
+*IEEE Transactions on Affective Computing*, 12(2), 377–390, 2021.
+
+[DOI](https://doi.org/10.1109/TAFFC.2018.2874996)
+
+---
+
+## 2019
+
+### Action Recognition Using Single-Pixel Time-of-Flight Detection
+
+**Ikechukwu Ofodile**, Ahmed Helmi, Albert Clapés, Egils Avots, Kerttu Maria Peensoo, Sandhra-Mirella Valdma, Andreas Valdmann, Heli Valtna-Lukner, Sergey Omelkov, Sergio Escalera, Cagri Ozcinar, and Gholamreza Anbarjafari.  
+*Entropy*, 21(4), 414, 2019.
+
+[DOI](https://doi.org/10.3390/e21040414)
+
+### Stabilised LQR Control and Optimised Spin Rate Control for Nanosatellites
+
+**Ikechukwu Ofodile**, Hendrik Ehrpais, Andris Slavinskis, and Gholamreza Anbarjafari.  
+*9th International Conference on Recent Advances in Space Technologies (RAST)*, pp. 715–722, 2019.
+
+[DOI](https://doi.org/10.1109/RAST.2019.8767850) · [Related Project](projects/spacecraft_autonomous_systems.qmd)
+
+### ESTCube-2 Attitude Determination and Control: Step Towards Interplanetary CubeSats
+
+**Ikechukwu Ofodile**, Johan Kütt, Joosep Kivastik, Madis Kaspar Nigol, Aleksander Parelo, Erik Ilbis, Hendrik Ehrpais, and Andris Slavinskis.  
+*2019 IEEE Aerospace Conference (AERO)*, 2019.
+
+[DOI](https://doi.org/10.1109/AERO.2019.8741929) · [Related Project](projects/spacecraft_autonomous_systems.qmd)
+
+---
+
+For a complete and up-to-date publication record, see my Google Scholar profile.

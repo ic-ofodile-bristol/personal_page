@@ -1,20 +1,92 @@
 ---
 title: "Research"
+format:
+  html:
+    body-classes: research-page
 ---
 
-Practice-oriented AI is about bridging the gap between between complex problem domains such as those found in science and research, and AI algorithms and techniques that could be used to solve problems in those domains. 
+My research lies at the intersection of multimodal artificial intelligence, computer vision, robotics, and autonomous systems. I am interested in developing intelligent systems that can integrate complementary sources of information, reason across space and time, and understand their interactions with complex real-world environments.
 
-Within the broad area of practice-oriented AI, my current research interests focus on ...
+My work broadly spans three connected themes:
 
-### My current research within the CDT
+### Multimodal Perception & Sensor Fusion
 
-{{< var todo >}}
+Developing learning methods that combine complementary sensing modalities to form richer and more robust representations of the environment. I am particularly interested in multimodal representation learning, cross-modal attention, heterogeneous sensor fusion, and learning when and how different modalities should contribute to perception.
 
-### Relevant research I have done previously
+### Computer Vision & Spatiotemporal Learning
 
-{{< var todo >}}
+Developing visual learning methods that move beyond individual images towards understanding events, interactions, and changes over time. This includes video understanding, temporal representation learning, vision and video transformers, and methods for modelling the spatial and temporal structure of dynamic scenes.
 
-### Research by others I'm building on
+### AI for Autonomous Systems & Robotics
 
-{{< var todo >}}
+Applying perception and learning to physically embodied systems operating in real-world environments. My interests include UAVs, mobile robotics, intelligent sensing, autonomous perception, and the relationship between an autonomous system's observations, physical state, and interaction with its environment.
 
+---
+
+## Current Research
+
+### Multimodal Spatiotemporal Learning of UAV–Environment Interactions
+
+My current research investigates how autonomous aerial systems can perceive and understand their interactions with complex atmospheric environments. Using operational fixed-wing UAV flights through volcanic plumes, I combine onboard video and aircraft telemetry to model the evolving relationship between the aircraft and its environment.
+
+The problem is currently formulated around four temporally structured interaction states:
+
+**Approaching → Entering → Inside → Exiting**
+
+Rather than treating individual observations independently, the work investigates how visual appearance, temporal context, and changes in aircraft state can jointly characterise these interactions.
+
+Current approaches include vision transformers, video-native spatiotemporal models, telemetry transformers, cross-attention, and residual-gated multimodal fusion. A central question is how complementary aircraft-state information can improve perception while preserving strong representations learned from vision.
+
+This research provides a real-world setting for investigating broader questions in multimodal learning, temporal perception, sensor fusion, and autonomous-system interaction understanding.
+
+[**View related projects →**](projects.qmd) &nbsp;&nbsp; [**View publications →**](publications.qmd)
+
+---
+
+## Emerging Research Direction
+
+### From Interaction Recognition to Dynamic 3D/4D Environment Understanding
+
+An emerging direction of my research is moving beyond the classification of discrete interaction states towards explicit spatial and temporal modelling of autonomous systems and the dynamic environments through which they move.
+
+I am interested in representations that can capture not only what an autonomous platform observes, but also where structures exist in 3D space, how they evolve over time, and how the platform's own motion relates to those changes.
+
+This motivates exploring modern approaches to 3D and 4D scene representation and reconstruction, including 3D Gaussian Splatting and dynamic/4D Gaussian representations, alongside neural and geometry-aware methods for dynamic scene reconstruction, novel-view synthesis, and spatiotemporal representation learning.
+
+For UAV–environment interactions, such representations could potentially move the problem from:
+
+*"What interaction state is the UAV currently in?"*
+
+towards richer questions such as:
+
+*"What is the evolving 3D structure of the environment, how is the UAV moving relative to it, and how is that interaction changing through time?"*
+
+The longer-term goal is to investigate whether these richer world representations can support environment understanding, interaction modelling, prediction, and ultimately more informed autonomous decision-making in complex dynamic environments.
+
+---
+
+## Previous Research
+
+My previous research spans several areas that provide the foundation for my current work.
+
+### Robotic Perception
+
+Research on multisensor perception for autonomous ground robots, including camera and LiDAR-based environmental perception, sensor alignment, semantic understanding, and autonomous navigation.
+
+### Computer Vision & AI
+
+Research in computer vision and machine learning, including spatiotemporal visual learning, human activity understanding, and intelligent perception from visual and depth-sensing data.
+
+### UAV Systems
+
+Practical work involving UAV development, autopilot systems, system integration, and flight testing, providing experience with the physical platforms and sensing systems underlying autonomous aerial operations.
+
+### Spacecraft Guidance & Control
+
+Research in spacecraft attitude determination and control, including fault-tolerant and adaptive control approaches, attitude-control modes, and control of small spacecraft systems.
+
+---
+
+My research increasingly brings these areas together around a central question:
+
+*"How can intelligent autonomous systems build useful representations of complex environments and understand their own interactions with them?"*

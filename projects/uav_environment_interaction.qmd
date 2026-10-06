@@ -1,0 +1,65 @@
+---
+title: "Multimodal Spatiotemporal Learning of UAV–Environment Interactions"
+description: "Multimodal perception of UAV interactions with volcanic plumes using onboard video and aircraft telemetry."
+date: "Aug 2026"
+image: "../images/mace_project.png"
+categories:
+  - Multimodal AI
+  - Computer Vision
+  - UAV
+  - Sensor Fusion
+---
+
+## Overview
+
+This project investigates how autonomous aerial systems can perceive and understand their interactions with complex atmospheric environments. Using operational fixed-wing UAV flights through volcanic plumes, the work combines onboard video and aircraft telemetry to model how the relationship between an aircraft and its environment evolves over time.
+
+The interaction is represented through four temporally structured states:
+
+**Approaching → Entering → Inside → Exiting**
+
+Rather than treating the problem as conventional frame-level recognition, the project investigates how visual appearance, temporal context, and aircraft-state information can jointly characterise UAV–environment interactions.
+
+## Dataset
+
+The work uses data collected during fixed-wing UAV flights at Volcán de Fuego, Guatemala. The dataset contains multiple independent encounters with volcanic plumes, with video and aircraft telemetry recorded during flight.
+
+Interaction periods were temporally annotated and partitioned by flight before observation windows were generated, reducing the risk of information leakage between training, validation, and test data.
+
+## Approach
+
+The project develops a multimodal framework for learning UAV–environment interactions from complementary visual and aircraft-state information.
+
+### Spatiotemporal visual perception
+
+Onboard video is used to learn representations of the evolving visual interaction between the UAV and its environment. Rather than relying only on individual frames, the approach incorporates temporal context to capture changes in appearance and interaction dynamics over an observation period.
+
+### Aircraft-state representation
+
+Synchronised aircraft telemetry provides a complementary view of the interaction through the physical state and response of the UAV. Temporal representations are learned from selected flight signals, enabling changes in aircraft behaviour to be considered alongside the visual observations.
+
+### Multimodal representation and fusion
+
+The visual and aircraft-state representations are integrated through cross-modal learning, allowing information from one modality to contextualise and complement the other. The current approach explores attention-based fusion with a residual-gated pathway designed to incorporate useful telemetry information while preserving strong visual representations.
+
+Together, these components investigate whether the interaction between an autonomous platform and its environment can be better understood by jointly modelling what the platform **sees** and how it **responds** over time.
+
+## Research Questions
+
+The project explores broader questions including:
+
+- How much information about an environmental interaction can be inferred from vision alone?
+- What complementary information is contained in aircraft telemetry?
+- When does multimodal fusion improve perception over a strong visual model?
+- How should heterogeneous modalities with different temporal characteristics be aligned and fused?
+- How can temporal structure and physically plausible state transitions contribute to interaction understanding?
+
+## Towards Dynamic Environment Modelling
+
+The longer-term direction extends beyond discrete interaction-state recognition towards richer spatial and temporal representations of UAV–environment interactions.
+
+This motivates investigation of modern 3D and 4D scene-representation approaches, including Gaussian Splatting and dynamic scene reconstruction, to represent the evolving geometry and appearance of complex environments together with the motion of the observing platform.
+
+---
+
+[**Research →**](../research.qmd) &nbsp;&nbsp; [**Publications →**](../publications.qmd)

@@ -1,0 +1,15 @@
+---
+title: "Autonomous UGV Multisensor Perception"
+description: "Multisensor perception for autonomous ground robots using visual and LiDAR information for environmental understanding and navigation."
+date: "2020-01-01"
+categories:
+  - Robotics
+  - Computer Vision
+  - Sensor Fusion
+---
+
+## Overview
+
+Research and development of perception capabilities for autonomous unmanned ground vehicles, combining information from multiple onboard sensing systems for environmental understanding and navigation.
+
+The work included camera and LiDAR-based perception, LiDAR–RGB alignment, semantic segmentation, sensor integration, and the development of perception components for autonomous robotic operation.

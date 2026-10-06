@@ -1,8 +1,12 @@
 ---
-title: "AI-Related Projects"
+title: "Projects"
 listing:
-    contents: projects
-    sort: date desc
+  contents: projects
+  sort: date desc
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
 ---
 
-Click on one of the headers below to find out about AI-related projects I am or have been involved in. 
+A selection of research and applied projects spanning multimodal AI, computer vision, geospatial AI, robotics, autonomous systems, and intelligent control.

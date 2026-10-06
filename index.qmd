@@ -1,54 +1,47 @@
 ---
-title: "Multimodal AI for Perception and Autonomous Systems"
-author: "Ikechukwu Ofodile"
+title: "Ikechukwu Ofodile"
+format:
+  html:
+    body-classes: home-page
 ---
 
-I am a PhD researcher in the {{< var cdt-full >}} at the **University of Bristol**. My research focuses on **multimodal artificial intelligence, computer vision, spatiotemporal learning, and autonomous systems**, with particular interest in developing AI systems that can perceive and understand complex, dynamic environments from multiple sensing modalities.
+Ike is a PhD student in the [UKRI AI Centre for Doctoral Training in Practice-Oriented Artificial Intelligence](https://www.bristol.ac.uk/cdt/practice-oriented-ai/) at the University of Bristol. His research focuses on multimodal perception, computer vision, and spatiotemporal learning for autonomous systems. He is particularly interested in developing AI systems that combine visual and onboard sensor information to understand complex and dynamic environments.
 
-My current research investigates **UAV–environment interactions**, combining onboard video and aircraft telemetry to understand how unmanned aerial vehicles interact with challenging atmospheric environments. Recent work focuses on **UAV–volcanic plume interaction**, where I develop spatiotemporal and multimodal learning approaches for recognising different stages of an aircraft's interaction with a volcanic plume.
+His current research explores UAV–environment interaction, using video and aircraft telemetry to understand and model how unmanned aerial vehicles interact with challenging atmospheric environments. His recent work investigates UAV–volcanic plume interactions, including multimodal learning of the different stages of interaction and, more broadly, how these interactions can be represented and modelled for autonomous perception.
 
-My broader research interests include **multimodal sensor fusion, video understanding, autonomous UAV perception, robotics, intelligent control, and dynamic environment modelling**.
-
-**Research interests:** Multimodal AI · Computer Vision · Video Understanding · Spatiotemporal Learning · Sensor Fusion · Autonomous Systems · UAV Perception · Robotics
-
----
-
-## Current Research
-
-### Multimodal UAV–Environment Interaction Perception
-
-My current work explores how multimodal AI can enable autonomous aerial systems to perceive and reason about their interactions with complex atmospheric environments. Using operational fixed-wing UAV flights through volcanic plumes, I investigate the fusion of **onboard video and aircraft telemetry** for recognising temporally structured interaction states:
-
-**Approaching → Entering → Inside → Exiting**
-
-The work combines video-native spatiotemporal modelling with aircraft-state representations and multimodal fusion. Recent experiments investigate **cross-attention and residual-gated cross-attention**, enabling complementary telemetry information to be incorporated while preserving strong visual representations.
-
-[**View research →**](research.qmd) &nbsp;&nbsp; [**View projects →**](projects.qmd)
+Before joining the University of Bristol, Ike conducted research at the University of Tartu spanning autonomous systems, artificial intelligence, computer vision, and spacecraft control. Working with Prof. Andris Slavinskis and Prof. Gholamreza Anbarjafari (Shahab), his research included fault-tolerant spacecraft attitude control, robotic perception, and computer vision. His broader work in autonomous systems has also included UAV development, autopilot systems, and flight testing. He also completed an MSc in Robotics and Computer Engineering at the University of Tartu, graduating *cum laude* (with distinction).
 
 ---
 
-## Research Background
+## Research
 
-Before joining the University of Bristol, I completed an **MSc in Robotics and Computer Engineering** at the University of Tartu, graduating *Summa Cum Laude*. My research there included autonomous and robotic systems, computer vision, multisensor perception, and spacecraft attitude determination and control.
+Ike's research interests lie at the intersection of multimodal AI, computer vision, robotics, and autonomous systems. His current interests include:
 
-I previously completed a **BEng in Electrical and Electronics Engineering**, providing the engineering foundation for my subsequent work across artificial intelligence, robotics, autonomous systems, and control.
+- Multimodal perception and sensor fusion
+- Computer vision and video understanding
+- Spatiotemporal learning
+- UAV and autonomous-system perception
+- Dynamic environment and interaction modelling
+- Robotics and intelligent autonomous systems
 
----
-
-## Selected Research Areas
-
-### Multimodal Perception & Sensor Fusion
-
-Developing AI models that integrate visual information with telemetry and other sensing modalities for robust perception in autonomous systems.
-
-### Computer Vision & Spatiotemporal Learning
-
-Learning representations from images and video to understand objects, environments, events, and temporally evolving interactions.
-
-### Autonomous Systems & Robotics
-
-Applying perception, machine learning, sensor fusion, and intelligent control to UAVs, mobile robots, and other autonomous platforms.
+[Research →](research.qmd) &nbsp;&nbsp; [Projects →](projects.qmd)
 
 ---
 
-*This website presents my ongoing research, projects, publications, and related activities in artificial intelligence and autonomous systems.*
+## Featured Work
+
+### Multimodal Spatiotemporal Learning of UAV–Environment Interactions
+
+Understanding UAV interactions with complex atmospheric environments using onboard video and aircraft telemetry.
+
+The work studies temporally structured UAV–volcanic plume interactions — **approaching, entering, inside, and exiting** — and investigates visual, telemetry-based, and multimodal learning approaches for autonomous perception.
+
+[Project →](projects/uav_environment_interaction.qmd) &nbsp;&nbsp; [Publications →](publications.qmd)
+
+---
+
+## Publications
+
+Selected publications spanning multimodal AI, autonomous systems, computer vision, and aerospace systems.
+
+[View publications →](publications.qmd)

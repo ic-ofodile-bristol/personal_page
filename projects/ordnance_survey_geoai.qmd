@@ -1,0 +1,15 @@
+---
+title: "GeoAI for Geospatial Change Detection"
+description: "Applied computer vision and AI for identifying and understanding changes in geospatial imagery and mapping data."
+date: "2026-05"
+categories:
+  - GeoAI
+  - Computer Vision
+  - Applied AI
+---
+
+## Overview
+
+A collaborative research project with Ordnance Survey exploring the use of artificial intelligence and computer vision for geospatial change detection and map-update workflows.
+
+The project investigated learning from geospatial imagery and mapping information in real-world settings, with particular interest in reliable change identification and the challenges introduced by imperfect, heterogeneous, and temporally varying data.
