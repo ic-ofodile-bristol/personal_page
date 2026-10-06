@@ -1,0 +1,65 @@
+/* css styles */
+
+
+/* Publications page */
+
+.publications-page h2 {
+  font-size: 1.20rem !important;
+  font-weight: 600;
+  margin-top: 1.8rem;
+  margin-bottom: 0.7rem;
+}
+
+.publications-page h3 {
+  font-size: 0.98rem !important;
+  font-weight: 600 !important;
+  line-height: 1.35;
+  margin-top: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.publications-page p {
+  font-size: 0.88rem;
+  line-height: 1.45;
+  margin-bottom: 0.4rem;
+}
+
+.publications-page hr {
+  margin: 1rem 0;
+}
+
+/* Sidebar profile photo */
+.sidebar-logo {
+  width: 125px !important;
+  height: 125px !important;
+  max-width: 125px !important;
+
+  object-fit: cover;
+  border-radius: 50%;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* Home and Research page body text */
+.home-page p,
+.home-page li,
+.research-page p,
+.research-page li {
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+/* Main section headings */
+.home-page h2,
+.research-page h2 {
+  font-size: 1.45rem;
+}
+
+/* Subsection headings */
+.home-page h3,
+.research-page h3 {
+  font-size: 1.15rem;
+}

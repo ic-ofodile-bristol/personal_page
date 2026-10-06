@@ -1,0 +1,12 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/uav_environment_interaction.html",
+      "/projects/ordnance_survey_geoai.html",
+      "/projects/recsys_diversification.html",
+      "/projects/spacecraft_autonomous_systems.html",
+      "/projects/ugv_multisensor_perception.html"
+    ]
+  }
+]

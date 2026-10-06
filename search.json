@@ -1,0 +1,212 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "My research spans multimodal AI, computer vision, autonomous systems, and spacecraft guidance and control. Selected peer-reviewed publications and current research outputs are listed below.\nFor a complete and up-to-date publication record, see my Google Scholar profile."
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2027",
+    "text": "2027\n\nTowards Multimodal Spatiotemporal Learning of UAV–Environment Interactions for Autonomous UAV Perception\nIkechukwu Ofodile, et al.\nIEEE Aerospace Conference, 2027 — Submitted.\nRelated Project"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\n\nElectric Sail Test Cube–Lunar Nanospacecraft, ESTCube-LuNa: Solar Wind Propulsion Demonstration Mission Concept\nAndris Slavinskis, Mario F. Palos, Janis Dalbins, Pekka Janhunen, Martin Tajmar, Nickolay Ivchenko, Agnes Rohtsalu, Aldo Micciani, Nicola Orsini, Karl Mattias Moor, Sergei Kuzmin, Marcis Bleiders, Marcis Donerblics, Ikechukwu Ofodile, Johan Kütt, Tõnis Eenmäe, Viljo Allik, Jaan Viru, Pätris Halapuu, Katriin Kristmann, Janis Sate, Endija Briede, Marius Anger, Katarina Aas, Gustavs Plonis, Hans Teras, Kristo Allaje, Andris Vaivads, Lorenzo Niccolai, Marco Bassetto, Giovanni Mengali, Petri Toivanen, Iaroslav Iakubivskyi, Mihkel Pajusalu, and Antti Tamm.\nAerospace, 11(3), 230, 2024.\nDOI · Related Project"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\nNanosatellite Attitude Stabilization based on Decentralized Anti-windup Fault Tolerant Control\nIkechukwu Ofodile, Akeem Adebomehin, Paul Jemitola, Andris Slavinskis, and Gholamreza Anbarjafari.\n2023 IEEE Aerospace Conference (AERO), 2023.\nDOI · Related Project\n\n\nEthical AI in Facial Expression Analysis: Racial Bias\nAbdallah Hussein Sham, Kadir Aktas, Davit Rizhinashvili, Danila Kuklianov, Fatih Alisinanoglu, Ikechukwu Ofodile, Cagri Ozcinar, and Gholamreza Anbarjafari.\nSignal, Image and Video Processing, 17(2), 399–406, 2023.\nDOI"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\n\nTowards an Integrated Fault Tolerant Control for ESTCube-2 Attitude Control System\nIkechukwu Ofodile, Hans Teras, Andris Slavinskis, and Gholamreza Anbarjafari.\n2022 IEEE Aerospace Conference (AERO), pp. 2361–2371, 2022.\nDOI · Related Project"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\n\nIntegrated Anti-Windup Fault-Tolerant Control Architecture for Optimized Satellite Attitude Stabilization\nIkechukwu Ofodile, Nkemdilim Ofodile-Keku, Paul Jemitola, Gholamreza Anbarjafari, and Andris Slavinskis.\nIEEE Journal on Miniaturization for Air and Space Systems, 2(4), 189–198, 2021.\nDOI · Related Project\n\n\nAutomatic Recognition of Facial Displays of Unfelt Emotions\nKaustubh Kulkarni, Ciprian Adrian Corneanu, Ikechukwu Ofodile, Sergio Escalera, Xavier Baró, Sylwia Hyniewska, Jüri Allik, and Gholamreza Anbarjafari.\nIEEE Transactions on Affective Computing, 12(2), 377–390, 2021.\nDOI"
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Publications",
+    "section": "2019",
+    "text": "2019\n\nAction Recognition Using Single-Pixel Time-of-Flight Detection\nIkechukwu Ofodile, Ahmed Helmi, Albert Clapés, Egils Avots, Kerttu Maria Peensoo, Sandhra-Mirella Valdma, Andreas Valdmann, Heli Valtna-Lukner, Sergey Omelkov, Sergio Escalera, Cagri Ozcinar, and Gholamreza Anbarjafari.\nEntropy, 21(4), 414, 2019.\nDOI\n\n\nStabilised LQR Control and Optimised Spin Rate Control for Nanosatellites\nIkechukwu Ofodile, Hendrik Ehrpais, Andris Slavinskis, and Gholamreza Anbarjafari.\n9th International Conference on Recent Advances in Space Technologies (RAST), pp. 715–722, 2019.\nDOI · Related Project\n\n\nESTCube-2 Attitude Determination and Control: Step Towards Interplanetary CubeSats\nIkechukwu Ofodile, Johan Kütt, Joosep Kivastik, Madis Kaspar Nigol, Aleksander Parelo, Erik Ilbis, Hendrik Ehrpais, and Andris Slavinskis.\n2019 IEEE Aerospace Conference (AERO), 2019.\nDOI · Related Project\n\nFor a complete and up-to-date publication record, see my Google Scholar profile."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of research and applied projects spanning multimodal AI, computer vision, geospatial AI, robotics, autonomous systems, and intelligent control.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMultimodal Spatiotemporal Learning of UAV–Environment Interactions\n\n\n\nMultimodal AI\n\nComputer Vision\n\nUAV\n\nSensor Fusion\n\n\n\nMultimodal perception of UAV interactions with volcanic plumes using onboard video and aircraft telemetry.\n\n\n\n\n\n\nAug 1, 2026\n\n\n\n\n\n\n\n\n\n\n\nGeoAI for Geospatial Change Detection\n\n\n\nGeoAI\n\nComputer Vision\n\nApplied AI\n\n\n\nApplied computer vision and AI for identifying and understanding changes in geospatial imagery and mapping data.\n\n\n\n\n\n\nMay 1, 2026\n\n\n\n\n\n\n\n\n\n\n\nSequential Recommendation & Slate Diversification\n\n\n\nRecommender Systems\n\nMachine Learning\n\nSequential Modelling\n\n\n\nSequential recommendation and diversification for improving relevance and variety across recommendation sessions.\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\n\n\n\n\n\nSpacecraft Attitude Control & Autonomous Space Systems\n\n\n\nSpace Systems\n\nControl\n\nAutonomous Systems\n\n\n\nResearch in fault-tolerant spacecraft attitude control, ADCS, and autonomous small-spacecraft systems.\n\n\n\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nAutonomous UGV Multisensor Perception\n\n\n\nRobotics\n\nComputer Vision\n\nSensor Fusion\n\n\n\nMultisensor perception for autonomous ground robots using visual and LiDAR information for environmental understanding and navigation.\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/recsys_diversification.html",
+    "href": "projects/recsys_diversification.html",
+    "title": "Sequential Recommendation & Slate Diversification",
+    "section": "",
+    "text": "A Practice-Oriented AI project investigating sequential recommendation and slate diversification using the MovieLens dataset.\nThe work compared modern recommendation approaches and investigated Maximum Marginal Relevance (MMR) for controlling the trade-off between recommendation relevance and diversity, both within individual recommendation slates and across successive sessions.\nThe project explored matrix-factorisation and sequential recommendation approaches alongside Transformer-based and generative recommendation models, with evaluation focused on ranking quality and diversification."
+  },
+  {
+    "objectID": "projects/recsys_diversification.html#overview",
+    "href": "projects/recsys_diversification.html#overview",
+    "title": "Sequential Recommendation & Slate Diversification",
+    "section": "",
+    "text": "A Practice-Oriented AI project investigating sequential recommendation and slate diversification using the MovieLens dataset.\nThe work compared modern recommendation approaches and investigated Maximum Marginal Relevance (MMR) for controlling the trade-off between recommendation relevance and diversity, both within individual recommendation slates and across successive sessions.\nThe project explored matrix-factorisation and sequential recommendation approaches alongside Transformer-based and generative recommendation models, with evaluation focused on ranking quality and diversification."
+  },
+  {
+    "objectID": "projects/ugv_multisensor_perception.html",
+    "href": "projects/ugv_multisensor_perception.html",
+    "title": "Autonomous UGV Multisensor Perception",
+    "section": "",
+    "text": "Research and development of perception capabilities for autonomous unmanned ground vehicles, combining information from multiple onboard sensing systems for environmental understanding and navigation.\nThe work included camera and LiDAR-based perception, LiDAR–RGB alignment, semantic segmentation, sensor integration, and the development of perception components for autonomous robotic operation."
+  },
+  {
+    "objectID": "projects/ugv_multisensor_perception.html#overview",
+    "href": "projects/ugv_multisensor_perception.html#overview",
+    "title": "Autonomous UGV Multisensor Perception",
+    "section": "",
+    "text": "Research and development of perception capabilities for autonomous unmanned ground vehicles, combining information from multiple onboard sensing systems for environmental understanding and navigation.\nThe work included camera and LiDAR-based perception, LiDAR–RGB alignment, semantic segmentation, sensor integration, and the development of perception components for autonomous robotic operation."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research lies at the intersection of multimodal artificial intelligence, computer vision, robotics, and autonomous systems. I am interested in developing intelligent systems that can integrate complementary sources of information, reason across space and time, and understand their interactions with complex real-world environments.\nMy work broadly spans three connected themes:"
+  },
+  {
+    "objectID": "research.html#current-research",
+    "href": "research.html#current-research",
+    "title": "Research",
+    "section": "Current Research",
+    "text": "Current Research\n\nMultimodal Spatiotemporal Learning of UAV–Environment Interactions\nMy current research investigates how autonomous aerial systems can perceive and understand their interactions with complex atmospheric environments. Using operational fixed-wing UAV flights through volcanic plumes, I combine onboard video and aircraft telemetry to model the evolving relationship between the aircraft and its environment.\nThe problem is currently formulated around four temporally structured interaction states:\nApproaching → Entering → Inside → Exiting\nRather than treating individual observations independently, the work investigates how visual appearance, temporal context, and changes in aircraft state can jointly characterise these interactions.\nCurrent approaches include vision transformers, video-native spatiotemporal models, telemetry transformers, cross-attention, and residual-gated multimodal fusion. A central question is how complementary aircraft-state information can improve perception while preserving strong representations learned from vision.\nThis research provides a real-world setting for investigating broader questions in multimodal learning, temporal perception, sensor fusion, and autonomous-system interaction understanding.\nView related projects →    View publications →"
+  },
+  {
+    "objectID": "research.html#emerging-research-direction",
+    "href": "research.html#emerging-research-direction",
+    "title": "Research",
+    "section": "Emerging Research Direction",
+    "text": "Emerging Research Direction\n\nFrom Interaction Recognition to Dynamic 3D/4D Environment Understanding\nAn emerging direction of my research is moving beyond the classification of discrete interaction states towards explicit spatial and temporal modelling of autonomous systems and the dynamic environments through which they move.\nI am interested in representations that can capture not only what an autonomous platform observes, but also where structures exist in 3D space, how they evolve over time, and how the platform’s own motion relates to those changes.\nThis motivates exploring modern approaches to 3D and 4D scene representation and reconstruction, including 3D Gaussian Splatting and dynamic/4D Gaussian representations, alongside neural and geometry-aware methods for dynamic scene reconstruction, novel-view synthesis, and spatiotemporal representation learning.\nFor UAV–environment interactions, such representations could potentially move the problem from:\n“What interaction state is the UAV currently in?”\ntowards richer questions such as:\n“What is the evolving 3D structure of the environment, how is the UAV moving relative to it, and how is that interaction changing through time?”\nThe longer-term goal is to investigate whether these richer world representations can support environment understanding, interaction modelling, prediction, and ultimately more informed autonomous decision-making in complex dynamic environments."
+  },
+  {
+    "objectID": "research.html#previous-research",
+    "href": "research.html#previous-research",
+    "title": "Research",
+    "section": "Previous Research",
+    "text": "Previous Research\nMy previous research spans several areas that provide the foundation for my current work.\n\nRobotic Perception\nResearch on multisensor perception for autonomous ground robots, including camera and LiDAR-based environmental perception, sensor alignment, semantic understanding, and autonomous navigation.\n\n\nComputer Vision & AI\nResearch in computer vision and machine learning, including spatiotemporal visual learning, human activity understanding, and intelligent perception from visual and depth-sensing data.\n\n\nUAV Systems\nPractical work involving UAV development, autopilot systems, system integration, and flight testing, providing experience with the physical platforms and sensing systems underlying autonomous aerial operations.\n\n\nSpacecraft Guidance & Control\nResearch in spacecraft attitude determination and control, including fault-tolerant and adaptive control approaches, attitude-control modes, and control of small spacecraft systems.\n\nMy research increasingly brings these areas together around a central question:\n“How can intelligent autonomous systems build useful representations of complex environments and understand their own interactions with them?”"
+  },
+  {
+    "objectID": "projects/uav_environment_interaction.html",
+    "href": "projects/uav_environment_interaction.html",
+    "title": "Multimodal Spatiotemporal Learning of UAV–Environment Interactions",
+    "section": "",
+    "text": "This project investigates how autonomous aerial systems can perceive and understand their interactions with complex atmospheric environments. Using operational fixed-wing UAV flights through volcanic plumes, the work combines onboard video and aircraft telemetry to model how the relationship between an aircraft and its environment evolves over time.\nThe interaction is represented through four temporally structured states:\nApproaching → Entering → Inside → Exiting\nRather than treating the problem as conventional frame-level recognition, the project investigates how visual appearance, temporal context, and aircraft-state information can jointly characterise UAV–environment interactions."
+  },
+  {
+    "objectID": "projects/uav_environment_interaction.html#overview",
+    "href": "projects/uav_environment_interaction.html#overview",
+    "title": "Multimodal Spatiotemporal Learning of UAV–Environment Interactions",
+    "section": "",
+    "text": "This project investigates how autonomous aerial systems can perceive and understand their interactions with complex atmospheric environments. Using operational fixed-wing UAV flights through volcanic plumes, the work combines onboard video and aircraft telemetry to model how the relationship between an aircraft and its environment evolves over time.\nThe interaction is represented through four temporally structured states:\nApproaching → Entering → Inside → Exiting\nRather than treating the problem as conventional frame-level recognition, the project investigates how visual appearance, temporal context, and aircraft-state information can jointly characterise UAV–environment interactions."
+  },
+  {
+    "objectID": "projects/uav_environment_interaction.html#dataset",
+    "href": "projects/uav_environment_interaction.html#dataset",
+    "title": "Multimodal Spatiotemporal Learning of UAV–Environment Interactions",
+    "section": "Dataset",
+    "text": "Dataset\nThe work uses data collected during fixed-wing UAV flights at Volcán de Fuego, Guatemala. The dataset contains multiple independent encounters with volcanic plumes, with video and aircraft telemetry recorded during flight.\nInteraction periods were temporally annotated and partitioned by flight before observation windows were generated, reducing the risk of information leakage between training, validation, and test data."
+  },
+  {
+    "objectID": "projects/uav_environment_interaction.html#approach",
+    "href": "projects/uav_environment_interaction.html#approach",
+    "title": "Multimodal Spatiotemporal Learning of UAV–Environment Interactions",
+    "section": "Approach",
+    "text": "Approach\nThe project develops a multimodal framework for learning UAV–environment interactions from complementary visual and aircraft-state information.\n\nSpatiotemporal visual perception\nOnboard video is used to learn representations of the evolving visual interaction between the UAV and its environment. Rather than relying only on individual frames, the approach incorporates temporal context to capture changes in appearance and interaction dynamics over an observation period.\n\n\nAircraft-state representation\nSynchronised aircraft telemetry provides a complementary view of the interaction through the physical state and response of the UAV. Temporal representations are learned from selected flight signals, enabling changes in aircraft behaviour to be considered alongside the visual observations.\n\n\nMultimodal representation and fusion\nThe visual and aircraft-state representations are integrated through cross-modal learning, allowing information from one modality to contextualise and complement the other. The current approach explores attention-based fusion with a residual-gated pathway designed to incorporate useful telemetry information while preserving strong visual representations.\nTogether, these components investigate whether the interaction between an autonomous platform and its environment can be better understood by jointly modelling what the platform sees and how it responds over time."
+  },
+  {
+    "objectID": "projects/uav_environment_interaction.html#research-questions",
+    "href": "projects/uav_environment_interaction.html#research-questions",
+    "title": "Multimodal Spatiotemporal Learning of UAV–Environment Interactions",
+    "section": "Research Questions",
+    "text": "Research Questions\nThe project explores broader questions including:\n\nHow much information about an environmental interaction can be inferred from vision alone?\nWhat complementary information is contained in aircraft telemetry?\nWhen does multimodal fusion improve perception over a strong visual model?\nHow should heterogeneous modalities with different temporal characteristics be aligned and fused?\nHow can temporal structure and physically plausible state transitions contribute to interaction understanding?"
+  },
+  {
+    "objectID": "projects/uav_environment_interaction.html#towards-dynamic-environment-modelling",
+    "href": "projects/uav_environment_interaction.html#towards-dynamic-environment-modelling",
+    "title": "Multimodal Spatiotemporal Learning of UAV–Environment Interactions",
+    "section": "Towards Dynamic Environment Modelling",
+    "text": "Towards Dynamic Environment Modelling\nThe longer-term direction extends beyond discrete interaction-state recognition towards richer spatial and temporal representations of UAV–environment interactions.\nThis motivates investigation of modern 3D and 4D scene-representation approaches, including Gaussian Splatting and dynamic scene reconstruction, to represent the evolving geometry and appearance of complex environments together with the motion of the observing platform.\n\nResearch →    Publications →"
+  },
+  {
+    "objectID": "projects/ordnance_survey_geoai.html",
+    "href": "projects/ordnance_survey_geoai.html",
+    "title": "GeoAI for Geospatial Change Detection",
+    "section": "",
+    "text": "A collaborative research project with Ordnance Survey exploring the use of artificial intelligence and computer vision for geospatial change detection and map-update workflows.\nThe project investigated learning from geospatial imagery and mapping information in real-world settings, with particular interest in reliable change identification and the challenges introduced by imperfect, heterogeneous, and temporally varying data."
+  },
+  {
+    "objectID": "projects/ordnance_survey_geoai.html#overview",
+    "href": "projects/ordnance_survey_geoai.html#overview",
+    "title": "GeoAI for Geospatial Change Detection",
+    "section": "",
+    "text": "A collaborative research project with Ordnance Survey exploring the use of artificial intelligence and computer vision for geospatial change detection and map-update workflows.\nThe project investigated learning from geospatial imagery and mapping information in real-world settings, with particular interest in reliable change identification and the challenges introduced by imperfect, heterogeneous, and temporally varying data."
+  },
+  {
+    "objectID": "projects/spacecraft_autonomous_systems.html",
+    "href": "projects/spacecraft_autonomous_systems.html",
+    "title": "Spacecraft Attitude Control & Autonomous Space Systems",
+    "section": "",
+    "text": "Research spanning spacecraft attitude determination and control, fault-tolerant control, and autonomous small-spacecraft systems.\nThe work includes the development and investigation of fault-tolerant and adaptive attitude-control approaches, anti-windup control, and attitude-control modes for small spacecraft.\nRelated research has included work on the ESTCube-2 attitude determination and control system and ESTCube-LuNa, including control and mission considerations associated with small-spacecraft and Electric Solar Wind Sail technologies."
+  },
+  {
+    "objectID": "projects/spacecraft_autonomous_systems.html#overview",
+    "href": "projects/spacecraft_autonomous_systems.html#overview",
+    "title": "Spacecraft Attitude Control & Autonomous Space Systems",
+    "section": "",
+    "text": "Research spanning spacecraft attitude determination and control, fault-tolerant control, and autonomous small-spacecraft systems.\nThe work includes the development and investigation of fault-tolerant and adaptive attitude-control approaches, anti-windup control, and attitude-control modes for small spacecraft.\nRelated research has included work on the ESTCube-2 attitude determination and control system and ESTCube-LuNa, including control and mission considerations associated with small-spacecraft and Electric Solar Wind Sail technologies."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ikechukwu Ofodile",
+    "section": "",
+    "text": "Ike is a PhD student in the UKRI AI Centre for Doctoral Training in Practice-Oriented Artificial Intelligence at the University of Bristol. His research focuses on multimodal perception, computer vision, and spatiotemporal learning for autonomous systems. He is particularly interested in developing AI systems that combine visual and onboard sensor information to understand complex and dynamic environments.\nHis current research explores UAV–environment interaction, using video and aircraft telemetry to understand and model how unmanned aerial vehicles interact with challenging atmospheric environments. His recent work investigates UAV–volcanic plume interactions, including multimodal learning of the different stages of interaction and, more broadly, how these interactions can be represented and modelled for autonomous perception.\nBefore joining the University of Bristol, Ike conducted research at the University of Tartu spanning autonomous systems, artificial intelligence, computer vision, and spacecraft control. Working with Prof. Andris Slavinskis and Prof. Gholamreza Anbarjafari (Shahab), his research included fault-tolerant spacecraft attitude control, robotic perception, and computer vision. His broader work in autonomous systems has also included UAV development, autopilot systems, and flight testing. He also completed an MSc in Robotics and Computer Engineering at the University of Tartu, graduating cum laude (with distinction)."
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Ikechukwu Ofodile",
+    "section": "Research",
+    "text": "Research\nIke’s research interests lie at the intersection of multimodal AI, computer vision, robotics, and autonomous systems. His current interests include:\n\nMultimodal perception and sensor fusion\nComputer vision and video understanding\nSpatiotemporal learning\nUAV and autonomous-system perception\nDynamic environment and interaction modelling\nRobotics and intelligent autonomous systems\n\nResearch →    Projects →"
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Ikechukwu Ofodile",
+    "section": "Featured Work",
+    "text": "Featured Work\n\nMultimodal Spatiotemporal Learning of UAV–Environment Interactions\nUnderstanding UAV interactions with complex atmospheric environments using onboard video and aircraft telemetry.\nThe work studies temporally structured UAV–volcanic plume interactions — approaching, entering, inside, and exiting — and investigates visual, telemetry-based, and multimodal learning approaches for autonomous perception.\nProject →    Publications →"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Ikechukwu Ofodile",
+    "section": "Publications",
+    "text": "Publications\nSelected publications spanning multimodal AI, autonomous systems, computer vision, and aerospace systems.\nView publications →"
+  }
+]
